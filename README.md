@@ -46,4 +46,4 @@ I'm a Software Engineer who loves diving deep into backend architecture, buildin
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AlexandraO0115&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=AlexandraO0115&include_all_commits=true&theme=transparent)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandraO0115&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandraO0115&langs_count=4&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandraO0115&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandraO0115&langs_count=4&theme=transparent)
